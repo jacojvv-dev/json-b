@@ -1,0 +1,12 @@
+{
+  "name": "json-b",
+  "version": "1.0.0",
+  "description": "An extremely naive and bad implementation that attempts to reduce the overall size of JSON data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jaco Jansen van Vuuren <helllo@jacojvv.dev> (https://jacojvv.dev)",
+  "license": "ISC"
+}
