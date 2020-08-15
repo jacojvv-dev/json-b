@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jaco Jansen van Vuuren <helllo@jacojvv.dev> (https://jacojvv.dev)",
+  "author": "Jaco Jansen van Vuuren <hello@jacojvv.dev> (https://jacojvv.dev)",
   "license": "ISC"
 }
